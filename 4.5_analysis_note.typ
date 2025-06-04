@@ -1,4 +1,5 @@
-#import "@preview/ori:0.2.2": *
+//#import "@preview/ori:0.2.2": *
+#import "lib.typ": *
 #import "@preview/mitex:0.2.5": *
 
 #show: ori.with(
@@ -19,5 +20,11 @@
 = QA
 = Centrality
 = Efficiency
++ TPC efficiency
++ TPC PID efficiency
++ TOF Matching Efficiency
++ TOF PID Efficiency
 = Pileup rejection
 = UrQMD calculation
+= Systematic Uncertainty
+= Results
